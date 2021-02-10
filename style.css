@@ -1,0 +1,28 @@
+.whole {
+  background-image: url("Online-Classes.jpg");
+}
+.contact {
+  background-color: yellow;
+}
+.contact1 {
+  background-color: yellow;
+}
+.Resgister {
+  padding-left: 500px;
+  font-size: 35px;
+  font-family: fantasy;
+  font-weight: 300;
+}
+a {
+  color: green;
+}
+.title {
+  padding-left: 440px;
+  font-weight: 700;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+.AboutUs {
+  padding-left: 1120px;
+  font-size: 25px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
